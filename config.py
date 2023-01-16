@@ -1,5 +1,5 @@
-TOKEN = '5939901265:AAFFJOZNlJAcofhevXI6vEzmsX23N4qDQZc'
-WEATHER_API = "f51ef026-696f-427d-b01b-0bd870c2faf7"
+TOKEN = ''
+WEATHER_API = ''
 HEADERS = {"X-Yandex-API-Key": "{0}".format(WEATHER_API)}
 CONDITIONS = {'clear': 'ясно',
             'partly-cloudy': 'малооблачно',
